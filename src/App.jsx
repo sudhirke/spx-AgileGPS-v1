@@ -1,5 +1,5 @@
 import "./App.css";
-
+import greet from './components/greet'
 import { HashRouter as Router, Navigate, Route, Routes } from "react-router-dom";
 
 import {

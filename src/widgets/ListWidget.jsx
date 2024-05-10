@@ -15,7 +15,7 @@ export default class ListWidget extends BaseWidget {
     return (
       <div>
         <List28Filled />
-        <Text>Your List</Text>
+        <Text>Active Projects</Text>
         <Button icon={<MoreHorizontal32Regular />} appearance="transparent" />
       </div>
     );
